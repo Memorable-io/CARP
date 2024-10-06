@@ -1,1 +1,1 @@
-# CARP
+# CARP (Camera Accessories Renting Platform)
